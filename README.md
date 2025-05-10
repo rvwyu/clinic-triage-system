@@ -1,4 +1,4 @@
-Clinic Pre-Triage System
+## Clinic Pre-Triage System
 
 A C++ object-oriented console application that simulates patient registration and admission in a healthcare clinic.
 
